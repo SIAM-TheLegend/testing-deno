@@ -1,6 +1,6 @@
 # Deno Testing Project
 
-![Deno](https://img.shields.io/badge/Deno-1.0+-green?logo=deno&logoColor=white&style=flat-square)
+![Deno](https://img.shields.io/badge/Deno-2.0-green?logo=deno&logoColor=white&style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 > An experimental project using Deno to explore its runtime features, including TypeScript support, security, and module handling. This project serves as an introduction to Deno's capabilities and will showcase the differences and benefits compared to Node.js.
