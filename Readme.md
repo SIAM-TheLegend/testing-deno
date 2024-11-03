@@ -1,25 +1,8 @@
-# Deno Testing Project
+# React + Vite
 
-![Deno](https://img.shields.io/badge/Deno-2.0-green?logo=deno&logoColor=white&style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-> An experimental project using Deno to explore its runtime features, including TypeScript support, security, and module handling. This project serves as an introduction to Deno's capabilities and will showcase the differences and benefits compared to Node.js.
+Currently, two official plugins are available:
 
----
-
-## 🚀 Project Overview
-
-This project demonstrates basic functionality within the Deno runtime environment. It covers file handling, HTTP server creation, TypeScript integration, and security practices inherent to Deno. Perfect for developers familiar with Node.js who want to learn more about Deno's unique approach!
-
----
-
-## 📂 Project Structure
-
-```plaintext
-├── src
-│   ├── server.ts         # Basic HTTP server setup
-│   ├── file-handler.ts   # Demonstrates Deno's file handling
-│   └── utils.ts          # Helper functions
-├── .env                  # Environment variables (if needed)
-└── README.md             # Project documentation
-```
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
